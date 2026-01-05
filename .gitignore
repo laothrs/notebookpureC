@@ -1,0 +1,28 @@
+# Build artifacts
+notes
+*.o
+*.out
+*.dSYM/
+
+# Old terminal-based notebook
+notebook
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+._*
+
+# Vault folder (user notes - optional)
+# Uncomment the line below if you don't want to track notes
+# vault/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
